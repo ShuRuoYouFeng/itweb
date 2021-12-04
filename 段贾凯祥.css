@@ -1,0 +1,180 @@
+*{
+	list-style: none;
+	font-family: 微软雅黑;
+	margin:0}
+
+#div1{
+	background-image: url(./img/bg1.jpg);
+	background-repeat: repeat-x;height: 145px
+}
+
+#div1 p{
+	color: gray;
+	font-size: 12px;
+	position: relative;top: -100px;left: 355px;
+	font-weight: 300;
+}
+
+#div1 p a:link,#div1 p a:visited{
+	text-decoration: none;
+	color: gray
+}
+
+#div1 p a:hover{
+	color: gray;
+}
+
+#div2{
+	height: 45px;
+	width: 1020px;
+	position: relative;top: -45px;
+}
+
+#div2 li{
+	float: left;
+	height: 45px;
+	line-height: 45px;
+	width: 70px;
+	text-align:center;
+	font-size: 13px;
+	font-weight: 600;
+	margin: 0px 7px 0px 7px;
+}
+
+#div2 ul li ul li{
+	position: relative;left: -46px;
+	background-color: #0066CC;
+}
+
+#div2 ul li ul{
+	display: none;
+	opacity: 0.5
+}
+
+#div2 ul li ul li a{
+	font-weight: 100;
+}
+
+#div2 a{
+	display: block;
+}
+
+#div2 a:link,#div2 a:visited{
+	text-decoration: none;
+	color: #fff
+}
+
+#div2 li a:hover{
+	background-color: #006699
+}
+
+
+#div1 p a:hover{
+	color: #fff;
+}
+
+#div3{
+	height: 274px;
+	width: 970px
+}
+
+#div4{
+	height: 275px;
+	width:970px; 
+}
+
+#divdiv4{
+	float: left;
+	background-color: red;
+	width: 462px;
+	height: 272px;
+	border: 1px solid #BBCCFF;
+	background-color: #fff
+
+
+}
+
+#div4 ul{
+	text-align: left;
+	margin: 6px 0px 10px 0px
+}
+
+#divdiv4 ul li{
+	list-style-type: square;
+	height: 30px;
+	position: relative;left: 15px;
+}
+
+#divdiv4 a:link,#divdiv4 a:visited{
+	text-decoration: none;
+	color: #000;
+	font-size: 13px
+}
+
+#divdiv4  a:hover{
+	color: #f90;
+}
+
+
+#divdiv5{
+	width: 463;
+	height: 30px;
+	background-color: #BBCCFF;
+	font-size: 15px
+}
+
+#divdiv5 a:link,#divdiv5 a:visited{
+	text-decoration: none;
+	color:#3366FF;
+	position: relative;left: 155px;top: 5px
+}
+
+#div5{
+	height:60px; 
+	font-size: 14px;
+	font-weight: 700;
+	text-align: center;
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+	background-color: #E0E0E0
+}
+
+#div5 ul li{
+	float: left;
+}
+
+#divdiv6{
+	width: 945px;
+	position: relative;left: 300px;top: 15px
+}
+
+#div6{
+	height: 120px;
+	background-color: #F0F0F0
+}
+
+#div6 b{
+	font-size: 13px
+}
+
+#div6 a:link,#div6 a:visited{
+	color:#000;
+	font-size: 15px;
+	font-weight: 400
+}
+
+#div6 a:hover{
+	color: #000;
+	font-size: 15px;
+	font-weight: 400
+}
+
+#div6 span{
+	color: gray;
+	font-size: 13px
+}
+
+#divdiv6 a:link,#divdiv6 a:visited{
+	text-decoration: none;
+	color:#000;
+}
